@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.34929.205
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Externo", "Externo\Externo.csproj", "{7CF6A7FC-D350-4FC8-B326-D301C25D024F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Externo.UnitTest", "Externo.UnitTest\Externo.UnitTest.csproj", "{D3041821-71D8-4D24-9992-03208191E6CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CF6A7FC-D350-4FC8-B326-D301C25D024F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF6A7FC-D350-4FC8-B326-D301C25D024F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF6A7FC-D350-4FC8-B326-D301C25D024F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF6A7FC-D350-4FC8-B326-D301C25D024F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3041821-71D8-4D24-9992-03208191E6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3041821-71D8-4D24-9992-03208191E6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3041821-71D8-4D24-9992-03208191E6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3041821-71D8-4D24-9992-03208191E6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1609F7F8-2B62-4A8B-86D6-11AAD8241CB2}
+	EndGlobalSection
+EndGlobal
